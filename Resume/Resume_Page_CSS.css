@@ -1,0 +1,14 @@
+object {
+    /*margin-top: 4.8%;
+    width: 100%;
+    overflow: auto;
+    height: 75vh;*/
+    height: 83vh;
+
+}
+body {
+    overflow: hidden; /* Hide scrollbars */
+  }
+footer{
+    border-top: 0px solid black;
+}
