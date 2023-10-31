@@ -1,3 +1,3 @@
 # Tolib-Sanni-Personal-Website
 A personal website acting as my portfolio
-[Tolibsanni.tech](tolibsanni.tech)
+[Tolibsanni.tech](google.com)
